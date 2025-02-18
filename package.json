@@ -1,0 +1,21 @@
+{
+  "name": "jv-theme",
+  "displayName": "JV Theme",
+  "description": "JV theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "JV Theme Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/JV Theme Dark-color-theme.json"
+      }
+    ]
+  }
+}
